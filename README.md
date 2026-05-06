@@ -1,0 +1,1 @@
+Hi. Dieses Respiratory dient einzig dazu, den Workflow beim Onboarden ins IT System zu vereinfachen bzw. übertragbar zu machen, auch wenn Mitarbeiterinnen keine Erfahrung mit IT Support haben. Die HTML ist so aufgebaut, dass man sich schnell zurechtfindet und Schritt für Schritt alles für ein gelungenes und effizientes Onboarding tut.
